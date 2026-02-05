@@ -9,6 +9,10 @@
 ### 测试API
 > 请带Referer为http://gitcode.com
 > 
+> ---
+> 
 > https://github-readme-api.rhodesisland.xyz/
+> 
+> ---
 > 
 > 请不要盗刷谢谢。
